@@ -9,6 +9,7 @@ public:
             long long int sum = 0;
             for (long long int i = 0; i < piles.size(); i++) {
                 sum += ceil((double)piles[i] / (double)mid);
+                if(sum>h) break;
             }    
             if (sum <= h) {
                 high = mid - 1;
