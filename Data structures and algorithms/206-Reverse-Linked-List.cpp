@@ -11,18 +11,11 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        vector<int>v;
-        ListNode* temp=head;
-        while(temp){
-            v.push_back(temp->val);
-            temp=temp->next;
-        }
-        temp=head;
-        int i=0,n=v.size();
-        while(temp){
-            temp->val=v[n-1-i++];
-            temp=temp->next;
-        }
-        return head;
+        if(head==NULL||head->next==NULL) return head;
+        ListNode* newHead=reverseList(head->next);
+        ListNode* front=head->next;
+        front->next=head;
+        head->next=nullptr;
+        return newHead;
     }
 };
