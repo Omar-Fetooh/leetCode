@@ -1,11 +1,25 @@
-# LeetCode
+# LeetCode Solutions 💻📚
 
-This repository contains my solutions to LeetCode problems.
+Welcome to my LeetCode solutions repository! 🚀
 
-Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+I hope these solutions can help someone .
 
- ## Made by 
- - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
- - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+## 📌 About
 
- Happy coding! 🚀
+This repository contains my solutions to various LeetCode problems. I am actively solving problems to improve my problem-solving skills, data structures, and algorithms knowledge.
+
+## 📖 Progress
+
+✔️ Ongoing Challenge: Striver's A2Z DSA Sheet (Currently at [Y] problems)
+
+
+
+## 🔥 Motivation
+
+I aim to enhance my problem-solving skills and prepare for coding interviews by consistently solving LeetCode problems.
+
+## Leetpush Extension 🧡
+This repo is managed by [LeetPush](https://github.com/husamahmud/LeetPush)
+
+Happy coding! 🚀💡
+
