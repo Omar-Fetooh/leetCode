@@ -10,7 +10,7 @@ This repository contains my solutions to various LeetCode problems. I am activel
 
 ## 📖 Progress
 
-✔️ Ongoing Challenge: Striver's A2Z DSA Sheet (Currently at [Y] problems)
+✔️ Ongoing Challenge: Striver's A2Z DSA Sheet 
 
 
 
