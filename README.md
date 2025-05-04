@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -26,5 +27,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0678-valid-parenthesis-string) |
+## Array
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
