@@ -37,9 +37,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/Omar-Fetooh/leetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Omar-Fetooh/leetCode/tree/master/0057-insert-interval) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omar-Fetooh/leetCode/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
