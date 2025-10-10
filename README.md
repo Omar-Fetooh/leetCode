@@ -52,6 +52,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0056-merge-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Omar-Fetooh/leetCode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0088-merge-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Omar-Fetooh/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0435-non-overlapping-intervals) |
@@ -60,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omar-Fetooh/leetCode/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -131,5 +133,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
