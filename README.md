@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0094-binary-tree-inorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Omar-Fetooh/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -52,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0056-merge-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Omar-Fetooh/leetCode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Omar-Fetooh/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Omar-Fetooh/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
@@ -135,4 +137,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Omar-Fetooh/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
