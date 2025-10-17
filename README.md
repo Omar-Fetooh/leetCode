@@ -164,4 +164,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0394-decode-string) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Omar-Fetooh/leetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Omar-Fetooh/leetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
