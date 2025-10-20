@@ -56,6 +56,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0055-jump-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Omar-Fetooh/leetCode/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omar-Fetooh/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0219-contains-duplicate-ii) |
@@ -169,9 +170,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Omar-Fetooh/leetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/Omar-Fetooh/leetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Omar-Fetooh/leetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
