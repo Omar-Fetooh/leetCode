@@ -30,6 +30,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omar-Fetooh/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -131,6 +132,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0011-container-with-most-water](https://github.com/Omar-Fetooh/leetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Omar-Fetooh/leetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/Omar-Fetooh/leetCode/tree/master/0917-boats-to-save-people) |
@@ -166,6 +168,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Omar-Fetooh/leetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0394-decode-string) |
 ## Binary Search
@@ -186,5 +189,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Omar-Fetooh/leetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
