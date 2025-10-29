@@ -62,6 +62,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omar-Fetooh/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Omar-Fetooh/leetCode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0883-car-fleet](https://github.com/Omar-Fetooh/leetCode/tree/master/0883-car-fleet) |
@@ -135,6 +136,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0027-remove-element](https://github.com/Omar-Fetooh/leetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/Omar-Fetooh/leetCode/tree/master/0917-boats-to-save-people) |
@@ -178,6 +180,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0069-sqrtx](https://github.com/Omar-Fetooh/leetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Omar-Fetooh/leetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -195,4 +198,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0138-copy-list-with-random-pointer](https://github.com/Omar-Fetooh/leetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
