@@ -59,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0056-merge-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Omar-Fetooh/leetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Omar-Fetooh/leetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omar-Fetooh/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -269,6 +270,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Omar-Fetooh/leetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
@@ -290,4 +292,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Omar-Fetooh/leetCode/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Omar-Fetooh/leetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
