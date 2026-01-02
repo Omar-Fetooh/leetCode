@@ -73,6 +73,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0621-task-scheduler](https://github.com/Omar-Fetooh/leetCode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/Omar-Fetooh/leetCode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Omar-Fetooh/leetCode/tree/master/0917-boats-to-save-people) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Omar-Fetooh/leetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Omar-Fetooh/leetCode/tree/master/1046-last-stone-weight) |
 ## Hash Table
@@ -85,6 +86,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Omar-Fetooh/leetCode/tree/master/0621-task-scheduler) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Sorting
 |  |
 | ------- |
