@@ -1,15 +1,5 @@
 class Solution {
   public:
-   		void dfsTopo(int node, vector<int>&visited, stack<int>&st, vector<vector<int>>& adj) {
-			visited[node] = 1;
-			for (auto it : adj[node]) {
-				if (!visited[it]) {
-					dfsTopo(it, visited, st, adj);
-				}
-			}
-			st.push(node);
-		}
-
 		vector<int> topoSort(int V, vector<vector<int>>& edges) {
 			vector<vector<int>>adj(V);
 			for (int i = 0;i < edges.size();i++) {
@@ -18,18 +8,31 @@ class Solution {
 				adj[u].push_back(v);
 			}
 			vector<int>ans;
-			vector<int>visited(V);
-			stack<int>st;
+			vector<int>indegree(V);
+			queue<int>q;
 			for (int i = 0;i < V;i++) {
-				if (!visited[i]) {
-					dfsTopo(i, visited, st, adj);
-				}
+			   for(int j=0;j<adj[i].size();j++){
+			         indegree[adj[i][j]]++;
+			   }
 			}
-
-			while (!st.empty())
+    
+            for(int i=0;i<V;i++){
+                if(indegree[i]==0) q.push(i);
+            }
+                
+			while(!q.empty())
 			{
-				ans.push_back(st.top());
-				st.pop();
+			    int node= q.front();
+			    q.pop();
+			    
+				ans.push_back(node);
+			    
+			    for(auto it: adj[node]){
+			        indegree[it]--;
+			        if(indegree[it]==0){
+			            q.push(it);
+			        }
+			    }
 			}
 			return ans;
 
