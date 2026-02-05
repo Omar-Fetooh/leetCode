@@ -140,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0144-binary-tree-preorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Omar-Fetooh/leetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Omar-Fetooh/leetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Omar-Fetooh/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -180,6 +181,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0127-word-ladder](https://github.com/Omar-Fetooh/leetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Omar-Fetooh/leetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Omar-Fetooh/leetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Omar-Fetooh/leetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Omar-Fetooh/leetCode/tree/master/0547-number-of-provinces) |
@@ -347,5 +349,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Omar-Fetooh/leetCode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Omar-Fetooh/leetCode/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Omar-Fetooh/leetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
