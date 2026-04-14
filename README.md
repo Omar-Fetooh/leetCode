@@ -25,6 +25,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0045-jump-game-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Omar-Fetooh/leetCode/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0678-valid-parenthesis-string) |
@@ -70,6 +71,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0078-subsets](https://github.com/Omar-Fetooh/leetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/Omar-Fetooh/leetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Omar-Fetooh/leetCode/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omar-Fetooh/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0219-contains-duplicate-ii) |
