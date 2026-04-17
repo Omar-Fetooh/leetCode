@@ -60,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/Omar-Fetooh/leetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Omar-Fetooh/leetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Omar-Fetooh/leetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Omar-Fetooh/leetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0045-jump-game-ii) |
@@ -297,6 +298,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Omar-Fetooh/leetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
