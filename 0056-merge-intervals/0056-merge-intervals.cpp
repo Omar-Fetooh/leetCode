@@ -1,30 +1,27 @@
 class Solution {
 public:
-
-//    static bool proceed(vector<int>a, vector<int>b) {
-//         return a[0] < b[0];
-//     }
-
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-    sort(intervals.begin(), intervals.end());
-	vector<vector<int>>ans;
-	int i = 0;
-	int n = intervals.size();
-	vector<int>curr = intervals[0];
-	while (i<n)
-	{
-		while (i < n && intervals[i][0] >= curr[0] && intervals[i][0] <= curr[1]) {
-			curr[0] = min(curr[0], intervals[i][0]);
-			curr[1] = max(curr[1], intervals[i][1]);
-			++i;
-		}
-		ans.push_back(curr);
-		if(i<n)	curr = intervals[i];
-		++i;
-		if (i == n) {
-			ans.push_back(curr);
-		}
-	}
-	return ans;
+        vector<vector<int>>ans;
+        sort(intervals.begin(), intervals.end());
+        vector<int> currentInterval = intervals[0];
+        if(intervals.size()==1) return intervals;
+        int i = 0;
+        while (i < intervals.size() - 1) {
+            if (intervals[i + 1][0] <= currentInterval[1]) {
+                currentInterval[1] =
+                    max(intervals[i + 1][1], currentInterval[1]);
+                ++i;
+                if (i == intervals.size() - 1)
+                    ans.push_back(currentInterval);
+            } else {
+                ans.push_back(currentInterval);
+                currentInterval = intervals[i + 1];
+                ++i;
+                if (i == intervals.size() - 1)
+                    ans.push_back(currentInterval);
+            }
+        }
+
+        return ans;
     }
 };
