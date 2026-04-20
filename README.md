@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Omar-Fetooh/leetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Omar-Fetooh/leetCode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0394-decode-string) |
@@ -67,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0040-combination-sum-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Omar-Fetooh/leetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Omar-Fetooh/leetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Omar-Fetooh/leetCode/tree/master/0057-insert-interval) |
@@ -102,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omar-Fetooh/leetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Omar-Fetooh/leetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Omar-Fetooh/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Omar-Fetooh/leetCode/tree/master/0127-word-ladder) |
@@ -116,6 +119,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Omar-Fetooh/leetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Omar-Fetooh/leetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Omar-Fetooh/leetCode/tree/master/0217-contains-duplicate) |
