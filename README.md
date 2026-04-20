@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Omar-Fetooh/leetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Omar-Fetooh/leetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Omar-Fetooh/leetCode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0344-reverse-string) |
@@ -37,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Omar-Fetooh/leetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
