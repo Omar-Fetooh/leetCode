@@ -70,6 +70,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0040-combination-sum-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Omar-Fetooh/leetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Omar-Fetooh/leetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Omar-Fetooh/leetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0056-merge-intervals) |
@@ -281,6 +282,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0002-add-two-numbers](https://github.com/Omar-Fetooh/leetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Omar-Fetooh/leetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Omar-Fetooh/leetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omar-Fetooh/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/Omar-Fetooh/leetCode/tree/master/0371-sum-of-two-integers) |
@@ -325,6 +327,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Omar-Fetooh/leetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Omar-Fetooh/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Omar-Fetooh/leetCode/tree/master/0130-surrounded-regions) |
