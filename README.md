@@ -66,6 +66,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0011-container-with-most-water](https://github.com/Omar-Fetooh/leetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Omar-Fetooh/leetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Omar-Fetooh/leetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Omar-Fetooh/leetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Omar-Fetooh/leetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0040-combination-sum-ii) |
@@ -264,6 +265,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0015-3sum](https://github.com/Omar-Fetooh/leetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Omar-Fetooh/leetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Omar-Fetooh/leetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0287-find-the-duplicate-number) |
