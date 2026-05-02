@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Omar-Fetooh/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Omar-Fetooh/leetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Omar-Fetooh/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0046-permutations](https://github.com/Omar-Fetooh/leetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Omar-Fetooh/leetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Omar-Fetooh/leetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Omar-Fetooh/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Omar-Fetooh/leetCode/tree/master/0057-insert-interval) |
@@ -225,6 +227,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Omar-Fetooh/leetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/Omar-Fetooh/leetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
