@@ -29,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0045-jump-game-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Omar-Fetooh/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Omar-Fetooh/leetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Omar-Fetooh/leetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Omar-Fetooh/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Omar-Fetooh/leetCode/tree/master/0198-house-robber) |
@@ -310,6 +311,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0002-add-two-numbers](https://github.com/Omar-Fetooh/leetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Omar-Fetooh/leetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Omar-Fetooh/leetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Omar-Fetooh/leetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omar-Fetooh/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/Omar-Fetooh/leetCode/tree/master/0371-sum-of-two-integers) |
@@ -446,4 +448,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0743-network-delay-time](https://github.com/Omar-Fetooh/leetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Omar-Fetooh/leetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Omar-Fetooh/leetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Omar-Fetooh/leetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
