@@ -110,6 +110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0287-find-the-duplicate-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0435-non-overlapping-intervals) |
+| [0485-max-consecutive-ones](https://github.com/Omar-Fetooh/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Omar-Fetooh/leetCode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Omar-Fetooh/leetCode/tree/master/0733-flood-fill) |
