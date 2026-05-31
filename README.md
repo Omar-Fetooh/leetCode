@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0063-unique-paths-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Omar-Fetooh/leetCode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Omar-Fetooh/leetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Omar-Fetooh/leetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Omar-Fetooh/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Omar-Fetooh/leetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0213-house-robber-ii) |
@@ -95,6 +96,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0088-merge-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Omar-Fetooh/leetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Omar-Fetooh/leetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Omar-Fetooh/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Omar-Fetooh/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Omar-Fetooh/leetCode/tree/master/0130-surrounded-regions) |
