@@ -329,6 +329,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0002-add-two-numbers](https://github.com/Omar-Fetooh/leetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Omar-Fetooh/leetCode/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Omar-Fetooh/leetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Omar-Fetooh/leetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Omar-Fetooh/leetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omar-Fetooh/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -355,6 +356,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0002-add-two-numbers](https://github.com/Omar-Fetooh/leetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Omar-Fetooh/leetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Omar-Fetooh/leetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/Omar-Fetooh/leetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0234-palindrome-linked-list) |
