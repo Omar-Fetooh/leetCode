@@ -151,6 +151,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0219-contains-duplicate-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/Omar-Fetooh/leetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Omar-Fetooh/leetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Omar-Fetooh/leetCode/tree/master/0621-task-scheduler) |
@@ -347,6 +348,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0146-lru-cache](https://github.com/Omar-Fetooh/leetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Omar-Fetooh/leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Omar-Fetooh/leetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Omar-Fetooh/leetCode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Omar-Fetooh/leetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
@@ -416,6 +418,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0146-lru-cache](https://github.com/Omar-Fetooh/leetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/Omar-Fetooh/leetCode/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -505,4 +508,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Omar-Fetooh/leetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Omar-Fetooh/leetCode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
