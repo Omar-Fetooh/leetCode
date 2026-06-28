@@ -63,6 +63,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0496-next-greater-element-i](https://github.com/Omar-Fetooh/leetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0883-car-fleet](https://github.com/Omar-Fetooh/leetCode/tree/master/0883-car-fleet) |
+| [0901-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
@@ -360,17 +361,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0232-implement-queue-using-stacks](https://github.com/Omar-Fetooh/leetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/Omar-Fetooh/leetCode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Omar-Fetooh/leetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Omar-Fetooh/leetCode/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/Omar-Fetooh/leetCode/tree/master/0883-car-fleet) |
+| [0901-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Omar-Fetooh/leetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0937-online-stock-span) |
 ## Recursion
 |  |
