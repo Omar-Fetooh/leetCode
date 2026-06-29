@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0049-group-anagrams](https://github.com/Omar-Fetooh/leetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Omar-Fetooh/leetCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Omar-Fetooh/leetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
@@ -157,6 +158,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0217-contains-duplicate](https://github.com/Omar-Fetooh/leetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Omar-Fetooh/leetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/Omar-Fetooh/leetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Omar-Fetooh/leetCode/tree/master/0496-next-greater-element-i) |
@@ -174,6 +176,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/Omar-Fetooh/leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Omar-Fetooh/leetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Omar-Fetooh/leetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Omar-Fetooh/leetCode/tree/master/0621-task-scheduler) |
