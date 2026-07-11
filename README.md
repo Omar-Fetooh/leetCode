@@ -203,6 +203,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Omar-Fetooh/leetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -225,6 +226,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0543-diameter-of-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Omar-Fetooh/leetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Omar-Fetooh/leetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Omar-Fetooh/leetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Omar-Fetooh/leetCode/tree/master/0785-is-graph-bipartite) |
@@ -250,6 +252,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Omar-Fetooh/leetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -266,6 +269,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0226-invert-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Omar-Fetooh/leetCode/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Omar-Fetooh/leetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Omar-Fetooh/leetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Omar-Fetooh/leetCode/tree/master/0785-is-graph-bipartite) |
