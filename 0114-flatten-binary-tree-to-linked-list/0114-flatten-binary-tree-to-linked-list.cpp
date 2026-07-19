@@ -12,21 +12,18 @@
  */
 class Solution {
 public:
-    void preOrder(TreeNode* node, vector<TreeNode*>& v) {
-        if (!node)
-            return;
-        v.push_back(node);
-        preOrder(node->left, v);
-        preOrder(node->right, v);
+    void flatten(TreeNode* root) {
+        TreeNode* prev = NULL;
+        dfsFlatten(root, prev);
     }
 
-    void flatten(TreeNode* root) {
-        vector<TreeNode*> v;
-        preOrder(root, v);
-        v.push_back(NULL);
-        for (int i = 0; i < v.size() - 1; i++) {
-            v[i]->left = NULL;
-            v[i]->right = v[i + 1];
-        }
+    void dfsFlatten(TreeNode* node, TreeNode*& prev) {
+        if (node == NULL)
+            return;
+        dfsFlatten(node->right, prev);
+        dfsFlatten(node->left, prev);
+        node->right = prev;
+        node->left = nullptr;
+        prev = node;
     }
 };
