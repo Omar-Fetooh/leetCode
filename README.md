@@ -71,6 +71,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0883-car-fleet](https://github.com/Omar-Fetooh/leetCode/tree/master/0883-car-fleet) |
 | [0901-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0937-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Omar-Fetooh/leetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Omar-Fetooh/leetCode/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Omar-Fetooh/leetCode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Omar-Fetooh/leetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -220,6 +222,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0701-insert-into-a-binary-search-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Omar-Fetooh/leetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -284,6 +287,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0701-insert-into-a-binary-search-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Omar-Fetooh/leetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -416,6 +420,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0883-car-fleet](https://github.com/Omar-Fetooh/leetCode/tree/master/0883-car-fleet) |
 | [0901-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0937-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -510,6 +515,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0700-search-in-a-binary-search-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Omar-Fetooh/leetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Geometry
 |  |
 | ------- |
