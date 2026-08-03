@@ -50,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0542-01-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Omar-Fetooh/leetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Omar-Fetooh/leetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Stack
 |  |
@@ -137,6 +138,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0542-01-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Omar-Fetooh/leetCode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Omar-Fetooh/leetCode/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0877-stone-game) |
 | [0883-car-fleet](https://github.com/Omar-Fetooh/leetCode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Omar-Fetooh/leetCode/tree/master/0917-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -401,6 +403,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0069-sqrtx](https://github.com/Omar-Fetooh/leetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omar-Fetooh/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/Omar-Fetooh/leetCode/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Omar-Fetooh/leetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
@@ -585,4 +588,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Omar-Fetooh/leetCode/tree/master/0239-sliding-window-maximum) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
