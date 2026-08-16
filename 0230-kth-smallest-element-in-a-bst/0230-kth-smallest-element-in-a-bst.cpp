@@ -6,21 +6,31 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
-    vector<int>v;
-    int kthSmallest(TreeNode* root, int k) {
-        dfs(root);
-        sort(v.begin(),v.end());
-        return v[k-1];
+    int kthInOrder(TreeNode* node, int& cnt, int k) {
+        if (!node)
+            return -1;
+
+        int result = kthInOrder(node->left, cnt, k);
+
+        if (result != -1) {
+            return result;
+        }
+
+        cnt++;
+        if (cnt == k)
+            return node->val;
+
+        return kthInOrder(node->right, cnt, k);
     }
-    void dfs(TreeNode* root){
-        if(!root) return ;
-        v.push_back(root->val);
-        dfs(root->left);
-        dfs(root->right);
+
+    int kthSmallest(TreeNode* root, int k) {
+        int cnt = 0;
+        return kthInOrder(root, cnt, k);
     }
 };
