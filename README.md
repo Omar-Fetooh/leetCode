@@ -412,6 +412,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0877-stone-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Omar-Fetooh/leetCode/tree/master/0973-k-closest-points-to-origin) |
 | [3870-count-commas-in-range](https://github.com/Omar-Fetooh/leetCode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Design
 |  |
 | ------- |
