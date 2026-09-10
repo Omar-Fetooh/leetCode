@@ -231,6 +231,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Omar-Fetooh/leetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -264,6 +265,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1020-number-of-enclaves](https://github.com/Omar-Fetooh/leetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Omar-Fetooh/leetCode/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Omar-Fetooh/leetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Omar-Fetooh/leetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
