@@ -152,6 +152,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1046-last-stone-weight](https://github.com/Omar-Fetooh/leetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Omar-Fetooh/leetCode/tree/master/1631-path-with-minimum-effort) |
+| [1929-concatenation-of-array](https://github.com/Omar-Fetooh/leetCode/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -617,4 +618,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Omar-Fetooh/leetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
