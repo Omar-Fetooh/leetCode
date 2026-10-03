@@ -143,6 +143,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0733-flood-fill](https://github.com/Omar-Fetooh/leetCode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0877-stone-game) |
 | [0883-car-fleet](https://github.com/Omar-Fetooh/leetCode/tree/master/0883-car-fleet) |
+| [0912-sort-an-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/Omar-Fetooh/leetCode/tree/master/0917-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Omar-Fetooh/leetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -199,6 +200,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0435-non-overlapping-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Omar-Fetooh/leetCode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/Omar-Fetooh/leetCode/tree/master/0883-car-fleet) |
+| [0912-sort-an-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/Omar-Fetooh/leetCode/tree/master/0917-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Omar-Fetooh/leetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -339,6 +341,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/Omar-Fetooh/leetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Omar-Fetooh/leetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Omar-Fetooh/leetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -349,6 +352,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0703-kth-largest-element-in-a-stream](https://github.com/Omar-Fetooh/leetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Omar-Fetooh/leetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Omar-Fetooh/leetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Omar-Fetooh/leetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Omar-Fetooh/leetCode/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Omar-Fetooh/leetCode/tree/master/1631-path-with-minimum-effort) |
@@ -356,6 +360,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -622,4 +627,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Omar-Fetooh/leetCode/tree/master/1929-concatenation-of-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
