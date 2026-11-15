@@ -135,6 +135,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0239-sliding-window-maximum](https://github.com/Omar-Fetooh/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Omar-Fetooh/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Omar-Fetooh/leetCode/tree/master/0496-next-greater-element-i) |
@@ -177,6 +178,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0229-majority-element-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Omar-Fetooh/leetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0460-lfu-cache](https://github.com/Omar-Fetooh/leetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Omar-Fetooh/leetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
@@ -198,6 +200,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0229-majority-element-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Omar-Fetooh/leetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Omar-Fetooh/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Omar-Fetooh/leetCode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/Omar-Fetooh/leetCode/tree/master/0883-car-fleet) |
@@ -397,6 +400,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0234-palindrome-linked-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Omar-Fetooh/leetCode/tree/master/0917-boats-to-save-people) |
@@ -474,6 +478,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omar-Fetooh/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Omar-Fetooh/leetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1631-path-with-minimum-effort](https://github.com/Omar-Fetooh/leetCode/tree/master/1631-path-with-minimum-effort) |
