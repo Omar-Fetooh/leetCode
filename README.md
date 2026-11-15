@@ -142,6 +142,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0540-single-element-in-a-sorted-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Omar-Fetooh/leetCode/tree/master/0621-task-scheduler) |
+| [0724-find-pivot-index](https://github.com/Omar-Fetooh/leetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Omar-Fetooh/leetCode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/Omar-Fetooh/leetCode/tree/master/0877-stone-game) |
 | [0883-car-fleet](https://github.com/Omar-Fetooh/leetCode/tree/master/0883-car-fleet) |
@@ -409,6 +410,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Omar-Fetooh/leetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Omar-Fetooh/leetCode/tree/master/0724-find-pivot-index) |
 ## Sliding Window
 |  |
 | ------- |
