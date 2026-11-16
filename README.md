@@ -29,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0394-decode-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0678-valid-parenthesis-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Omar-Fetooh/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Omar-Fetooh/leetCode/tree/master/1894-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Omar-Fetooh/leetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
@@ -419,6 +420,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0219-contains-duplicate-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Omar-Fetooh/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Omar-Fetooh/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Omar-Fetooh/leetCode/tree/master/1652-defuse-the-bomb) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Omar-Fetooh/leetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
