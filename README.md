@@ -30,6 +30,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Omar-Fetooh/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1598-crawler-log-folder](https://github.com/Omar-Fetooh/leetCode/tree/master/1598-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/Omar-Fetooh/leetCode/tree/master/1894-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Omar-Fetooh/leetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
@@ -75,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0901-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/Omar-Fetooh/leetCode/tree/master/0937-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Omar-Fetooh/leetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1598-crawler-log-folder](https://github.com/Omar-Fetooh/leetCode/tree/master/1598-crawler-log-folder) |
 ## Greedy
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1020-number-of-enclaves](https://github.com/Omar-Fetooh/leetCode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Omar-Fetooh/leetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1598-crawler-log-folder](https://github.com/Omar-Fetooh/leetCode/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/Omar-Fetooh/leetCode/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/Omar-Fetooh/leetCode/tree/master/1652-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/Omar-Fetooh/leetCode/tree/master/1929-concatenation-of-array) |
