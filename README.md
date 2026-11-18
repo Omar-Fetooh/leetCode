@@ -159,6 +159,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1020-number-of-enclaves](https://github.com/Omar-Fetooh/leetCode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Omar-Fetooh/leetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1550-three-consecutive-odds](https://github.com/Omar-Fetooh/leetCode/tree/master/1550-three-consecutive-odds) |
 | [1598-crawler-log-folder](https://github.com/Omar-Fetooh/leetCode/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/Omar-Fetooh/leetCode/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/Omar-Fetooh/leetCode/tree/master/1652-defuse-the-bomb) |
