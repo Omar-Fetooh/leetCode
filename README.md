@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0678-valid-parenthesis-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Omar-Fetooh/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1598-crawler-log-folder](https://github.com/Omar-Fetooh/leetCode/tree/master/1598-crawler-log-folder) |
+| [1763-longest-nice-substring](https://github.com/Omar-Fetooh/leetCode/tree/master/1763-longest-nice-substring) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Omar-Fetooh/leetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1894-merge-strings-alternately](https://github.com/Omar-Fetooh/leetCode/tree/master/1894-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Omar-Fetooh/leetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -194,6 +195,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0621-task-scheduler](https://github.com/Omar-Fetooh/leetCode/tree/master/0621-task-scheduler) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1763-longest-nice-substring](https://github.com/Omar-Fetooh/leetCode/tree/master/1763-longest-nice-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Omar-Fetooh/leetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -358,6 +360,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Omar-Fetooh/leetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1763-longest-nice-substring](https://github.com/Omar-Fetooh/leetCode/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -429,6 +432,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0567-permutation-in-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Omar-Fetooh/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Omar-Fetooh/leetCode/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/Omar-Fetooh/leetCode/tree/master/1763-longest-nice-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Omar-Fetooh/leetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -544,6 +548,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0287-find-the-duplicate-number](https://github.com/Omar-Fetooh/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Omar-Fetooh/leetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Omar-Fetooh/leetCode/tree/master/0371-sum-of-two-integers) |
+| [1763-longest-nice-substring](https://github.com/Omar-Fetooh/leetCode/tree/master/1763-longest-nice-substring) |
 ## String Matching
 |  |
 | ------- |
