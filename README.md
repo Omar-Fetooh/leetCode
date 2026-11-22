@@ -35,6 +35,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Omar-Fetooh/leetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1894-merge-strings-alternately](https://github.com/Omar-Fetooh/leetCode/tree/master/1894-merge-strings-alternately) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Omar-Fetooh/leetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Omar-Fetooh/leetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Omar-Fetooh/leetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -199,6 +200,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Omar-Fetooh/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Omar-Fetooh/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1763-longest-nice-substring](https://github.com/Omar-Fetooh/leetCode/tree/master/1763-longest-nice-substring) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Omar-Fetooh/leetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Omar-Fetooh/leetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -390,6 +392,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0229-majority-element-ii](https://github.com/Omar-Fetooh/leetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Omar-Fetooh/leetCode/tree/master/0621-task-scheduler) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Omar-Fetooh/leetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Quickselect
 |  |
 | ------- |
