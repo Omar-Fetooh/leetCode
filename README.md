@@ -170,6 +170,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1652-defuse-the-bomb](https://github.com/Omar-Fetooh/leetCode/tree/master/1652-defuse-the-bomb) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Omar-Fetooh/leetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/Omar-Fetooh/leetCode/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Omar-Fetooh/leetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3731-find-missing-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -528,6 +529,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1020-number-of-enclaves](https://github.com/Omar-Fetooh/leetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Omar-Fetooh/leetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Omar-Fetooh/leetCode/tree/master/1631-path-with-minimum-effort) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Omar-Fetooh/leetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
 | ------- |
@@ -664,6 +666,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Omar-Fetooh/leetCode/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Omar-Fetooh/leetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Merge Sort
 |  |
 | ------- |
