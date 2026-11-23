@@ -36,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1894-merge-strings-alternately](https://github.com/Omar-Fetooh/leetCode/tree/master/1894-merge-strings-alternately) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Omar-Fetooh/leetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Omar-Fetooh/leetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Omar-Fetooh/leetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Omar-Fetooh/leetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -425,6 +426,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0876-middle-of-the-linked-list](https://github.com/Omar-Fetooh/leetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Omar-Fetooh/leetCode/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Omar-Fetooh/leetCode/tree/master/1894-merge-strings-alternately) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Omar-Fetooh/leetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
