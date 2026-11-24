@@ -172,6 +172,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Omar-Fetooh/leetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/Omar-Fetooh/leetCode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Omar-Fetooh/leetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Omar-Fetooh/leetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3731-find-missing-elements](https://github.com/Omar-Fetooh/leetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -382,6 +383,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0973-k-closest-points-to-origin](https://github.com/Omar-Fetooh/leetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Omar-Fetooh/leetCode/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Omar-Fetooh/leetCode/tree/master/1631-path-with-minimum-effort) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Omar-Fetooh/leetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -669,6 +671,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Omar-Fetooh/leetCode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Omar-Fetooh/leetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Omar-Fetooh/leetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
