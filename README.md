@@ -97,6 +97,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0678-valid-parenthesis-string](https://github.com/Omar-Fetooh/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Omar-Fetooh/leetCode/tree/master/0846-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/Omar-Fetooh/leetCode/tree/master/0917-boats-to-save-people) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Omar-Fetooh/leetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Omar-Fetooh/leetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Omar-Fetooh/leetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Array
@@ -178,6 +179,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1631-path-with-minimum-effort](https://github.com/Omar-Fetooh/leetCode/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/Omar-Fetooh/leetCode/tree/master/1652-defuse-the-bomb) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Omar-Fetooh/leetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Omar-Fetooh/leetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/Omar-Fetooh/leetCode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Omar-Fetooh/leetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Omar-Fetooh/leetCode/tree/master/2206-divide-array-into-equal-pairs) |
